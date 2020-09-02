@@ -5,4 +5,5 @@ This is for the beta testing group of the Intulse App.
 - [ ] Update module
 - [ ] Run conversion script
 - [ ] Configure v2 services to monitor client
-- [ ] Exclude client shared processing from v1 (eg. fax sync)
+- [ ] Exclude client from shared processing v1 (eg. fax sync)
+- [ ] Configuration SMS delivery to v2
