@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: enhancement, needs triage, Account Center
+labels: enhancement, needs triage, Meetings
 assignees: ''
 
 ---
